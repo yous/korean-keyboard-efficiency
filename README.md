@@ -5,13 +5,13 @@ Research on efficiency of Korean keyboards. This work is based on [현대 국어
 2](http://korean.go.kr/front/reportData/reportDataView.do?mn_id=45&report_seq=1&pageIndex=1)
 done by the National Institute of the Korean Language.
 
-# How to run
+## How to run
 
 ``` ruby
 ruby src/calculate.rb
 ```
 
-# Result
+## Result
 
 ```
 Alphabets
@@ -42,6 +42,6 @@ Hit count of 3-2012: 26624986.60000007
 Hit count of 3-2015: 26230260.600000095
 ```
 
-# License
+## License
 
 Copyright (c) 2015 ChaYoung You. See [LICENSE.txt](LICENSE.txt) for details.
